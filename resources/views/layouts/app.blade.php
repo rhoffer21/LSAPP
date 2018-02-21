@@ -8,6 +8,6 @@
         <title>{{config('app.name', 'LSAPP')}}</title>
     </head>
     <body>
-        @yield('content');
+        @yield('content')
     </body>
 </html>
